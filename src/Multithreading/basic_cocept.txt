@@ -1,0 +1,8 @@
+so multiprocessing and multithreading are both used to achieve multitasking 
+1) threads use shared memory area
+2)Threads--> faster content sharing 
+3)A thread is a lightweight whereas a process is heavyweight
+
+Creating a thread
+By extending thread class 
+By implementing runnable Interface
